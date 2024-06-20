@@ -35,7 +35,7 @@ Here is the list of student repositories by roll number:
 | Roll Number | Repository Link | 
 |-------------|-----------------|
 | 2010013 | [Lab 2](https://github.com/Nezent/ECE_LAB_3117/tree/Lab_2) |
-| 2010025 | [Lab 2](https://github.com/username/repo2) |
+| 2010025 | [ece_tes_anon](https://github.com/jankenpon753/ece_tes_anon) |
 
 <!-- Add more entries as needed -->
 
